@@ -1,0 +1,157 @@
+.kunal{
+    padding-top: 10px;
+    width: 100%;
+}
+.hehe{
+    margin-right: 30px;
+}
+.yoo{
+    padding-right: 15px;
+}
+.carousel{
+    padding-top: 15px;
+}
+element.style{
+background-image: url('2nd d .png');
+}
+.card-cover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+.rounded-5 {
+    border-radius: 1rem;
+}
+.bg-dark {
+    background-color: #212529!important;
+}
+.text-white {
+    color: #fff!important;
+}
+.h-100 {
+    height: 100%!important;
+}
+.shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+}
+.overflow-hidden {
+    overflow: hidden!important;
+}
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+user agent stylesheet
+div {
+    display: block;
+}
+.g-4, .gy-4 {
+    --bs-gutter-y: 1.5rem;
+}
+.g-4, .gx-4 {
+    --bs-gutter-x: 1.5rem;
+}
+.row {
+    --bs-gutter-x: 1.5rem;
+    --bs-gutter-y: 0;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: calc(var(--bs-gutter-y) * -1);
+    margin-right: calc(var(--bs-gutter-x) * -.5);
+    margin-left: calc(var(--bs-gutter-x) * -.5);
+}
+.oyo{
+    text-align: center;
+    padding-top: 50px;
+}
+.kunaldon{
+    height: 500px;
+}
+.nii{
+    padding-left: 50px;
+    padding-top: 60px;
+}
+.heee{
+    padding-top: 70px;
+}
+.dfg{
+    text-align: center;
+}
+.naa{
+    text-align: center;
+}
+.dfgH{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 35px;
+}
+
+.jee{
+    background-color: #9b9b9b;
+}
+.ghj{
+    background-color: #EEEEEE;
+    margin-top: 60px;
+    text-align: center;
+    padding-left: 30px;
+    width: 100%;
+}
+.hello{
+    padding-left: 170px;
+}
+.helle{
+    padding-top: 20px;
+    padding-right: 30px;
+}
+.nuu{
+    padding-right: 35px;
+    padding-left: 35px;
+}
+.yoyoyo{
+    text-align: left;
+    padding-left: 35px;
+    padding-right: 35px;
+}
+.gfgf{
+    padding-left: 220px;
+}
+.ut{
+    padding-right: 50px;
+}
+.JOJO{
+    text-align: left;
+}
+.bob{
+    margin-right: 1px;
+}
+.gtrf{
+    margin-top: 10px;
+}
+.kunalgarg{
+    padding-bottom: 5px;
+}
+.pranav{
+    padding-bottom: 10px;
+}
+.paa{
+    padding-bottom: 5px;
+}
+.yup{
+    padding-bottom: 28px;
+}
+.lol{
+    padding-bottom: 8px;
+}
+.done{
+    padding-bottom:24px ;
+}
